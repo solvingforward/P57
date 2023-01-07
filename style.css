@@ -1,0 +1,47 @@
+body{
+    padding-top: 800px;
+    text-align: center;
+    
+}
+h1{
+font-family: fantasy;
+    color: darkcyan;
+    
+}
+h2{
+ font-family: cursive;
+    color: floralwhite;
+    
+}
+p{
+    font-family: inherit;
+    color: blueviolet;
+}
+#profile{
+    border-radius: 50%;
+}
+#welcome{
+    background: linear-gradient(#42f5a7 50%,#f542bc 100%);
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    display: table;
+    height: 100%;
+        width:100%;
+    vertical-align: middle;
+    text-align: center;
+    }
+#Name{
+    color: darksalmon;
+    font-family: monospace;
+    font-size:25px;
+}
+#line{
+    background-color: hotpink;
+    height: 10px;
+    width: 100px;
+    margin: 10px auto;
+    
+}
